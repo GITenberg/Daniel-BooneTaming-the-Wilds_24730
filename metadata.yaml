@@ -1,0 +1,33 @@
+_repo: Daniel-BooneTaming-the-Wilds_24730
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wilkie, Katharine Elliott
+    alias: Wilkie, Katharine E.
+    birthdate: 1904
+    gutenberg_agent_id: '26703'
+    url: http://www.gutenberg.org/2009/agents/26703
+description: ''
+gutenberg_bookshelf: Children's Biography
+gutenberg_issued: '2008-03-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24730'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Frontier and pioneer life -- Kentucky -- Juvenile literature'
+- !lcc 'PZ'
+- !lcsh 'Kentucky -- Biography -- Juvenile literature'
+- !lcsh 'Boone, Daniel, 1734-1820 -- Juvenile literature'
+- !lcc 'F396'
+- !lcsh 'Pioneers -- Kentucky -- Biography -- Juvenile literature'
+title: 'Daniel Boone
+
+  Taming the Wilds'
+url: http://www.gutenberg.org/ebooks/24730
